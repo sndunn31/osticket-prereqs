@@ -42,7 +42,7 @@ Through the Azure portal create a resource group. Let's name it "osTicket Setup"
 <img src="https://i.imgur.com/nYKfjUm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Aftter logging into the virtual machine, click Windows icon and go to Control Panel. Next, click "uninstall a program", select "Turn Windows features on or off". Look for "Internet Information Services", check box then click "OK"
+After logging into the virtual machine, click Windows icon and go to Control Panel. Next, click "uninstall a program", select "Turn Windows features on or off". Look for "Internet Information Services", check box then click "OK"
 </p>
 <br />
 
