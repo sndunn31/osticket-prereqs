@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial guides you through a step by step process of creating a virtual machine and then outlines the installation process of osTicket within the virtuak machine.<br />
+This tutorial guides you through a step by step process of creating a virtual machine and then outlines the installation process of osTicket within the virtual machine.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -22,7 +22,7 @@ This tutorial guides you through a step by step process of creating a virtual ma
 
 <h2>List of Prerequisites</h2>
 
-- Azure
+- Azure Cloud Platform
 - Subscription
 - Resource Group
 - Virtual Network
